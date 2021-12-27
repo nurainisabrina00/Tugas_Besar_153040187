@@ -1,0 +1,25 @@
+/*
+  .page-banner-section {
+    padding: 1px 0 50px !important;
+    width: 100%;
+  }*/
+
+.header-logo a img {
+    width: 70px !important;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 150px;
+  }
+
+@media only screen and (min-width: 1200px) and (max-width: 1499px) {
+  .pb-lg-50 {
+    padding-bottom: 0px !important; } }
+
+.shop-area {
+    margin-top: -10px !important;}
+
+.page-banner-section {
+    padding: 1px 0px !important; }
+
+.grid-list-option p {
+    margin-left: 0px !important;}
